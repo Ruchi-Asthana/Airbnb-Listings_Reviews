@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Global Airbnb Performance Dashboard is a data analysis project built in POWER BI that provides a consolidated view of Airbnb’s worldwide listings, reviews, ratings, market share, and customer behavior. It is designed to support strategic decision‑making for leadership, sales, and marketing teams by transforming raw marketplace data into actionable insights.
+The Global Airbnb Performance Dashboard is a data analysis project built in POWER BI that provides a consolidated view of Airbnb’s worldwide listings, reviews, ratings, hosts, market share, customer behavior and seasonality. It is designed to support strategic decision‑making for leadership, sales, and marketing teams by transforming raw marketplace data into actionable insights.
 
 <img width="1536" height="1024" alt="Airbnb Performance Dashboard Summary" src="https://github.com/user-attachments/assets/1bce2ef4-fc81-46fe-a467-6332f0fa4160" />
 
