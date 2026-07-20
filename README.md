@@ -1,6 +1,7 @@
 # Global Airbnb Performance Dashboard
 ## Overview
 The Global Airbnb Performance Dashboard provides a consolidated view of Airbnb’s worldwide listings, reviews, ratings, market share, and customer behavior. It is designed to support strategic decision‑making for leadership, sales, and marketing teams by transforming raw marketplace data into actionable insights.
+DOWNLOAD DATASET FROM HERE - https://mavenanalytics.io/data-playground/airbnb-listings-reviews
 ## Growth & Supply Trends
 The dashboard traces Airbnb’s evolution across phases of introduction, growth, maturity, decline, and reinvention. As noted in the analysis, “In 2015, Airbnb reached the highest number of new listings… 2016 and 2017 saw a restraint also due to the tightening of local regulations.” Despite regulatory challenges, Airbnb became profitable in late 2016 and sustained profitability through 2017. Growth resumed in 2018 but was disrupted by the COVID‑19 pandemic.
 ## Market Share by City
